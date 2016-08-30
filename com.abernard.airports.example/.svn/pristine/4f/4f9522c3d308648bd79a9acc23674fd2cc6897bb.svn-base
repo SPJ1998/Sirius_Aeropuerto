@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:airports="http://com.abernard.airports/1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xmi:id="_Ge2o4KVxEeOXWMBQkXGCaA" version="8.0.0">
+  <models xmi:type="airports:WorldMap" href="example.airports#/"/>
+</viewpoint:DAnalysis>

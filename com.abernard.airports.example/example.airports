@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airports:WorldMap xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:airports="http://com.abernard.airports/1.0">
+  <airports name="Schiphol" country="Pays" city="Paises bajos">
+    <gates number="12" destination="//@airports.1/@gates.0" origin="//@airports.4/@gates.0"/>
+  </airports>
+  <airports name="Heathrow" country="Royaume-Uni" city="Londres">
+    <gates number="23" destination="//@airports.2/@gates.0" origin="//@airports.0/@gates.0"/>
+  </airports>
+  <airports name="Mariscal Sucre" country="Ecuador" city="Quito">
+    <gates number="2" destination="//@airports.3/@gates.0" origin="//@airports.1/@gates.0"/>
+  </airports>
+  <airports name="Simón Bolívar" country="Ecuador" city="Guayaquil">
+    <gates number="3" destination="//@airports.3/@gates.1" origin="//@airports.2/@gates.0"/>
+    <gates origin="//@airports.3/@gates.0"/>
+  </airports>
+  <airports name="New Airport" country="Country" city="quito">
+    <gates number="44" destination="//@airports.0/@gates.0"/>
+  </airports>
+  <airports name="New Airport" country="Country"/>
+  <airports name="New Airport" country="Country"/>
+</airports:WorldMap>

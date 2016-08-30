@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_F9PpYM_eEeOjrO4qj5MmZQ" type="EcoreTools" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_F-niYM_eEeOjrO4qj5MmZQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_F_Y-cM_eEeOjrO4qj5MmZQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_F_basM_eEeOjrO4qj5MmZQ" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_F_basc_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F_bass_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F_bas8_eEeOjrO4qj5MmZQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_F_eeAM_eEeOjrO4qj5MmZQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_F_eeAc_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F_eeAs_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F_eeA8_eEeOjrO4qj5MmZQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_F-niYc_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="airports.ecore#//WorldMap"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F-niYs_eEeOjrO4qj5MmZQ" x="230" y="20"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_F_hhUM_eEeOjrO4qj5MmZQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_F_jWgM_eEeOjrO4qj5MmZQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_F_j9kM_eEeOjrO4qj5MmZQ" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_F_o2EM_eEeOjrO4qj5MmZQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="airports.ecore#//Airport/name"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F_o2Ec_eEeOjrO4qj5MmZQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_F_qEMM_eEeOjrO4qj5MmZQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="airports.ecore#//Airport/country"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F_qEMc_eEeOjrO4qj5MmZQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_F_rSUM_eEeOjrO4qj5MmZQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="airports.ecore#//Airport/city"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F_rSUc_eEeOjrO4qj5MmZQ"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_F_j9kc_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F_j9ks_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F_j9k8_eEeOjrO4qj5MmZQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_F_lLsM_eEeOjrO4qj5MmZQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_F_lLsc_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F_lLss_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F_lLs8_eEeOjrO4qj5MmZQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_F_hhUc_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="airports.ecore#//Airport"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F_hhUs_eEeOjrO4qj5MmZQ" x="25" y="90"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_F_tHgM_eEeOjrO4qj5MmZQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_F_u8sM_eEeOjrO4qj5MmZQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_F_vjwM_eEeOjrO4qj5MmZQ" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_F_zOIM_eEeOjrO4qj5MmZQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="airports.ecore#//Gate/number"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F_zOIc_eEeOjrO4qj5MmZQ"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_F_vjwc_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F_vjws_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F_vjw8_eEeOjrO4qj5MmZQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_F_wK0M_eEeOjrO4qj5MmZQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_F_wx4M_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F_wx4c_eEeOjrO4qj5MmZQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F_wx4s_eEeOjrO4qj5MmZQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_F_tHgc_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="airports.ecore#//Gate"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F_tHgs_eEeOjrO4qj5MmZQ" x="270" y="110"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_F9PpYc_eEeOjrO4qj5MmZQ"/>
+  <element xmi:type="ecore:EPackage" href="airports.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_F_9mMM_eEeOjrO4qj5MmZQ" type="3002" source="_F-niYM_eEeOjrO4qj5MmZQ" target="_F_hhUM_eEeOjrO4qj5MmZQ">
+    <children xmi:type="notation:Node" xmi:id="_GADFwM_eEeOjrO4qj5MmZQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GADFwc_eEeOjrO4qj5MmZQ" x="-27" y="-15"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_GAFiAM_eEeOjrO4qj5MmZQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GAFiAc_eEeOjrO4qj5MmZQ" x="-2" y="12"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_F_9mMc_eEeOjrO4qj5MmZQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_F_9mMs_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="airports.ecore#//WorldMap/airports"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_F_9mM8_eEeOjrO4qj5MmZQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_GAHXMM_eEeOjrO4qj5MmZQ" type="3002" source="_F_hhUM_eEeOjrO4qj5MmZQ" target="_F_tHgM_eEeOjrO4qj5MmZQ">
+    <children xmi:type="notation:Node" xmi:id="_GAIlUM_eEeOjrO4qj5MmZQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GAIlUc_eEeOjrO4qj5MmZQ" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_GAJMYM_eEeOjrO4qj5MmZQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GAJMYc_eEeOjrO4qj5MmZQ" x="2" y="9"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_GAHXMc_eEeOjrO4qj5MmZQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_GAHXMs_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="airports.ecore#//Airport/gates"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GAHXM8_eEeOjrO4qj5MmZQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_GAKagM_eEeOjrO4qj5MmZQ" type="3002" source="_F_tHgM_eEeOjrO4qj5MmZQ" target="_F_tHgM_eEeOjrO4qj5MmZQ">
+    <children xmi:type="notation:Node" xmi:id="_GALooM_eEeOjrO4qj5MmZQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GALooc_eEeOjrO4qj5MmZQ" x="-38" y="-23"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_GAMPsM_eEeOjrO4qj5MmZQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GAMPsc_eEeOjrO4qj5MmZQ" x="-13" y="-12"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_GAKagc_eEeOjrO4qj5MmZQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_GAKags_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="airports.ecore#//Gate/destination"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GAKag8_eEeOjrO4qj5MmZQ" points="[0, 25, 36, 2]$[0, 92, 36, 69]$[-43, 92, -7, 69]$[-48, 61, -12, 38]$[-36, 25, 0, 2]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pl2iYM_eEeOjrO4qj5MmZQ" id="(0.5,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pl2iYc_eEeOjrO4qj5MmZQ" id="(0.1651376146788991,0.9607843137254902)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_GAM2wM_eEeOjrO4qj5MmZQ" type="3002" source="_F_tHgM_eEeOjrO4qj5MmZQ" target="_F_tHgM_eEeOjrO4qj5MmZQ">
+    <children xmi:type="notation:Node" xmi:id="_GAOE4M_eEeOjrO4qj5MmZQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GAOE4c_eEeOjrO4qj5MmZQ" x="-7" y="24"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_GAOr8M_eEeOjrO4qj5MmZQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GAOr8c_eEeOjrO4qj5MmZQ" x="8" y="17"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_GAM2wc_eEeOjrO4qj5MmZQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_GAM2ws_eEeOjrO4qj5MmZQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="airports.ecore#//Gate/origin"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GAM2w8_eEeOjrO4qj5MmZQ" points="[0, 2, -36, 25]$[-12, 38, -48, 61]$[-7, 69, -43, 92]$[36, 69, 0, 92]$[36, 2, 0, 25]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I7_ScM_eEeOjrO4qj5MmZQ" id="(0.1651376146788991,0.9607843137254902)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I7_5gM_eEeOjrO4qj5MmZQ" id="(0.5,0.5)"/>
+  </edges>
+</notation:Diagram>

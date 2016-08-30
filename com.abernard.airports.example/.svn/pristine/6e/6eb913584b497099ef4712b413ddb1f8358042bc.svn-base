@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airports:WorldMap xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:airports="http://com.abernard.airports/1.0">
+  <airports name="Roissy CDG" country="France" city="Paris">
+    <gates number="12" destination="//@airports.2/@gates.1"/>
+  </airports>
+  <airports name="Heathrow" country="Royaume-Uni" city="Londres">
+    <gates number="23" destination="//@airports.2/@gates.0"/>
+  </airports>
+  <airports name="La Guardia" country="USA" city="New York">
+    <gates number="4" origin="//@airports.1/@gates.0"/>
+    <gates number="7" origin="//@airports.0/@gates.0"/>
+  </airports>
+  <airports name="New Airport" country="Country"/>
+</airports:WorldMap>

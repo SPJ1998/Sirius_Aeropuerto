@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description:Group xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:tool="http://www.eclipse.org/sirius/diagram/description/tool/1.1.0" xmlns:tool_1="http://www.eclipse.org/sirius/description/tool/1.1.0" name="airports" version="8.0.0">
+  <ownedViewpoints name="default_airports_vp" label="Airports Viewpoint" modelFileExtension="airports">
+    <ownedRepresentations xsi:type="description_1:DiagramDescription" name="airports_diagram" label="Airports Diagram" domainClass="airports.WorldMap">
+      <defaultLayer name="Default_layer" label="Default Layer">
+        <nodeMappings name="node_airport" label="Airport" semanticCandidatesExpression="[airports/]" domainClass="airports.Airport">
+          <borderedNodeMappings name="node_gate" label="Gate" semanticCandidatesExpression="[gates/]" domainClass="airports.Gate">
+            <style xsi:type="style:LozengeNodeDescription" showIcon="false" labelExpression="[number/]" sizeComputationExpression="2" labelPosition="node" resizeKind="NSEW">
+              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='orange']"/>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_orange']"/>
+            </style>
+          </borderedNodeMappings>
+          <style xsi:type="style:SquareDescription" showIcon="false" labelExpression="[name + ' (' + country + ')'/]" sizeComputationExpression="7" labelPosition="node" resizeKind="NSEW" width="9" height="5">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='green']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+          </style>
+        </nodeMappings>
+        <edgeMappings name="edge_gates" label="Airline" sourceMapping="//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']" targetMapping="//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']" targetFinderExpression="[destination/]">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <toolSections name="sectionAirports" label="Airports">
+          <subSections name="paletteSection" label="Palette">
+            <ownedTools xsi:type="tool:NodeCreationDescription" name="newAirport" label="Airport" nodeMappings="//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']">
+              <variable name="container"/>
+              <viewVariable name="containerView"/>
+              <initialOperation>
+                <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[container/]">
+                  <subModelOperations xsi:type="tool_1:CreateInstance" typeName="airports.Airport" referenceName="airports">
+                    <subModelOperations xsi:type="tool_1:SetValue" featureName="name" valueExpression="['New Airport'/]"/>
+                    <subModelOperations xsi:type="tool_1:SetValue" featureName="country" valueExpression="['Country'/]"/>
+                  </subModelOperations>
+                </firstModelOperations>
+              </initialOperation>
+            </ownedTools>
+          </subSections>
+        </toolSections>
+      </defaultLayer>
+    </ownedRepresentations>
+  </ownedViewpoints>
+</description:Group>

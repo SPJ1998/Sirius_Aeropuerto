@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated airports -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="com.abernard.airports.presentation.AirportsModelWizardID"
+            name="%_UI_AirportsModelWizard_label"
+            class="com.abernard.airports.presentation.AirportsModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/AirportsModelFile.gif">
+         <description>%_UI_AirportsModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated airports -->
+      <editor
+            id="com.abernard.airports.presentation.AirportsEditorID"
+            name="%_UI_AirportsEditor_label"
+            icon="icons/full/obj16/AirportsModelFile.gif"
+            extensions="airports"
+            class="com.abernard.airports.presentation.AirportsEditor"
+            contributorClass="com.abernard.airports.presentation.AirportsActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

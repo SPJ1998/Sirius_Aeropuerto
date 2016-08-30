@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:airports="http://com.abernard.airports/1.0" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//diagram/description http://www.eclipse.org/sirius/diagram/1.1.0 http://www.eclipse.org/sirius/1.1.0#//diagram http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/1.1.0#//diagram/description/style" xmi:id="_Ge2o4KVxEeOXWMBQkXGCaA" selectedViews="_BDqhMK-mEeO0kbDEc3zUwQ" version="8.0.0">
+  <models xmi:type="airports:WorldMap" href="example.airports#/"/>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_BDqhMK-mEeO0kbDEc3zUwQ" initialized="true">
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_hV4HwMAiEeOUrtBoGfUYGw" name="new Airports Diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_hWSXcMAiEeOUrtBoGfUYGw" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_hWSXccAiEeOUrtBoGfUYGw" type="Sirius" element="_hV4HwMAiEeOUrtBoGfUYGw" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_hWd9oMAiEeOUrtBoGfUYGw" type="2001" element="_hV4HwcAiEeOUrtBoGfUYGw">
+            <children xmi:type="notation:Node" xmi:id="_hWo8wMAiEeOUrtBoGfUYGw" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_hWo8wcAiEeOUrtBoGfUYGw" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hW0i8MAiEeOUrtBoGfUYGw" type="3001" element="_hV4HwsAiEeOUrtBoGfUYGw">
+              <children xmi:type="notation:Node" xmi:id="_hW1xEMAiEeOUrtBoGfUYGw" type="5001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_hW1xEcAiEeOUrtBoGfUYGw" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hXDzgMAiEeOUrtBoGfUYGw" type="3017" element="_hV4Hw8AiEeOUrtBoGfUYGw">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hXDzgcAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXDzgsAiEeOUrtBoGfUYGw"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hW0i8cAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hW0i8sAiEeOUrtBoGfUYGw" x="8" y="-22" width="20" height="20"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXBXQMAiEeOUrtBoGfUYGw" type="3003" element="_hV4Hx8AiEeOUrtBoGfUYGw">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hXBXQcAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXBXQsAiEeOUrtBoGfUYGw"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_hWd9ocAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hWeksMAiEeOUrtBoGfUYGw" x="5" y="145" width="90" height="50"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_hWtOMMAiEeOUrtBoGfUYGw" type="2001" element="_hV4Hy8AiEeOUrtBoGfUYGw">
+            <children xmi:type="notation:Node" xmi:id="_hWvDYMAiEeOUrtBoGfUYGw" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_hWvDYcAiEeOUrtBoGfUYGw" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXFBoMAiEeOUrtBoGfUYGw" type="3001" element="_hV4HzMAiEeOUrtBoGfUYGw">
+              <children xmi:type="notation:Node" xmi:id="_hXG20MAiEeOUrtBoGfUYGw" type="5001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_hXG20cAiEeOUrtBoGfUYGw" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hXJTEMAiEeOUrtBoGfUYGw" type="3017" element="_hV4HzcAiEeOUrtBoGfUYGw">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hXJ6IMAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXJ6IcAiEeOUrtBoGfUYGw"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hXFBocAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXFBosAiEeOUrtBoGfUYGw" x="52" y="-22" width="20" height="20"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXIE8MAiEeOUrtBoGfUYGw" type="3003" element="_hV4u0cAiEeOUrtBoGfUYGw">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hXIE8cAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXIE8sAiEeOUrtBoGfUYGw"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_hWtOMcAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hWtOMsAiEeOUrtBoGfUYGw" x="135" y="115" width="90" height="50"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_hWw4kMAiEeOUrtBoGfUYGw" type="2001" element="_hV4u1cAiEeOUrtBoGfUYGw">
+            <children xmi:type="notation:Node" xmi:id="_hWyGsMAiEeOUrtBoGfUYGw" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_hWyGscAiEeOUrtBoGfUYGw" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXLIQMAiEeOUrtBoGfUYGw" type="3001" element="_hV4u1sAiEeOUrtBoGfUYGw">
+              <children xmi:type="notation:Node" xmi:id="_hXM9cMAiEeOUrtBoGfUYGw" type="5001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_hXM9ccAiEeOUrtBoGfUYGw" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hXSdAMAiEeOUrtBoGfUYGw" type="3017" element="_hV4u18AiEeOUrtBoGfUYGw">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hXSdAcAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXSdAsAiEeOUrtBoGfUYGw"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hXLIQcAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXLIQsAiEeOUrtBoGfUYGw" x="82" y="12" width="20" height="20"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXOLkMAiEeOUrtBoGfUYGw" type="3001" element="_hV4u28AiEeOUrtBoGfUYGw">
+              <children xmi:type="notation:Node" xmi:id="_hXPZsMAiEeOUrtBoGfUYGw" type="5001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_hXPZscAiEeOUrtBoGfUYGw" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hXUSMMAiEeOUrtBoGfUYGw" type="3017" element="_hV4u3MAiEeOUrtBoGfUYGw">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hXUSMcAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXUSMsAiEeOUrtBoGfUYGw"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hXOLkcAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXOLksAiEeOUrtBoGfUYGw" x="-22" y="5" width="20" height="20"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXRO4MAiEeOUrtBoGfUYGw" type="3003" element="_hV4u4MAiEeOUrtBoGfUYGw">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hXRO4cAiEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXRO4sAiEeOUrtBoGfUYGw"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_hWw4kcAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hWw4ksAiEeOUrtBoGfUYGw" x="40" y="30" width="90" height="50"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ivWmsMAjEeOUrtBoGfUYGw" type="2001" element="_iurRQMAjEeOUrtBoGfUYGw">
+            <children xmi:type="notation:Node" xmi:id="_ivX00MAjEeOUrtBoGfUYGw" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_ivYb4MAjEeOUrtBoGfUYGw" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iva4IMAjEeOUrtBoGfUYGw" type="3003" element="_iuttgMAjEeOUrtBoGfUYGw">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_iva4IcAjEeOUrtBoGfUYGw" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iva4IsAjEeOUrtBoGfUYGw"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ivWmscAjEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ivWmssAjEeOUrtBoGfUYGw" x="284" y="40" width="90" height="50"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_hWSXcsAiEeOUrtBoGfUYGw"/>
+          <edges xmi:type="notation:Edge" xmi:id="_hXcOAMAiEeOUrtBoGfUYGw" type="4001" element="_hV4u5MAiEeOUrtBoGfUYGw" source="_hW0i8MAiEeOUrtBoGfUYGw" target="_hXOLkMAiEeOUrtBoGfUYGw">
+            <children xmi:type="notation:Node" xmi:id="_hXgfcMAiEeOUrtBoGfUYGw" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXgfccAiEeOUrtBoGfUYGw" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXiUoMAiEeOUrtBoGfUYGw" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXiUocAiEeOUrtBoGfUYGw" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXkw4MAiEeOUrtBoGfUYGw" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXkw4cAiEeOUrtBoGfUYGw" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_hXcOAcAiEeOUrtBoGfUYGw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_hXcOAsAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hXcOA8AiEeOUrtBoGfUYGw" points="[97, -53, 22, -7]$[22, 7, -53, 53]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hXsssMAiEeOUrtBoGfUYGw" id="(0.5,0.5)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hXtTwMAiEeOUrtBoGfUYGw" id="(0.5,0.5)"/>
+          </edges>
+          <edges xmi:type="notation:Edge" xmi:id="_hXvI8MAiEeOUrtBoGfUYGw" type="4001" element="_hV4u6cAiEeOUrtBoGfUYGw" source="_hXFBoMAiEeOUrtBoGfUYGw" target="_hXLIQMAiEeOUrtBoGfUYGw">
+            <children xmi:type="notation:Node" xmi:id="_hXwXEMAiEeOUrtBoGfUYGw" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXwXEcAiEeOUrtBoGfUYGw" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXwXEsAiEeOUrtBoGfUYGw" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXw-IMAiEeOUrtBoGfUYGw" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hXw-IcAiEeOUrtBoGfUYGw" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hXw-IsAiEeOUrtBoGfUYGw" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_hXvI8cAiEeOUrtBoGfUYGw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_hXvI8sAiEeOUrtBoGfUYGw" fontName="Segoe UI" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hXvI88AiEeOUrtBoGfUYGw" points="[-53, -53, -15, -7]$[22, 7, 60, 53]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hXyMQMAiEeOUrtBoGfUYGw" id="(0.5,0.5)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hXyMQcAiEeOUrtBoGfUYGw" id="(0.5,0.5)"/>
+          </edges>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_hV4HwcAiEeOUrtBoGfUYGw" name="Roissy CDG (France)" width="9" height="5" resizeKind="NSEW">
+        <target xmi:type="airports:Airport" href="example.airports#//@airports.0"/>
+        <semanticElements xmi:type="airports:Airport" href="example.airports#//@airports.0"/>
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_hV4HwsAiEeOUrtBoGfUYGw" name="12" outgoingEdges="_hV4u5MAiEeOUrtBoGfUYGw" width="2" height="2" resizeKind="NSEW">
+          <target xmi:type="airports:Gate" href="example.airports#//@airports.0/@gates.0"/>
+          <semanticElements xmi:type="airports:Gate" href="example.airports#//@airports.0/@gates.0"/>
+          <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_hV4Hw8AiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4HxMAiEeOUrtBoGfUYGw"/>
+            <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']/@style"/>
+            <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4HxcAiEeOUrtBoGfUYGw" red="252" green="175" blue="62"/>
+            <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4HxsAiEeOUrtBoGfUYGw" red="253" green="206" blue="137"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']"/>
+        </ownedBorderedNodes>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_hV4Hx8AiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node" width="9" height="5">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4HyMAiEeOUrtBoGfUYGw"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4HycAiEeOUrtBoGfUYGw" red="138" green="226" blue="52"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4HysAiEeOUrtBoGfUYGw" red="204" green="242" blue="166"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_hV4Hy8AiEeOUrtBoGfUYGw" name="Heathrow (Royaume-Uni)" width="9" height="5" resizeKind="NSEW">
+        <target xmi:type="airports:Airport" href="example.airports#//@airports.1"/>
+        <semanticElements xmi:type="airports:Airport" href="example.airports#//@airports.1"/>
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_hV4HzMAiEeOUrtBoGfUYGw" name="23" outgoingEdges="_hV4u6cAiEeOUrtBoGfUYGw" width="2" height="2" resizeKind="NSEW">
+          <target xmi:type="airports:Gate" href="example.airports#//@airports.1/@gates.0"/>
+          <semanticElements xmi:type="airports:Gate" href="example.airports#//@airports.1/@gates.0"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_hV4HzcAiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4HzsAiEeOUrtBoGfUYGw"/>
+            <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']/@style"/>
+            <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4Hz8AiEeOUrtBoGfUYGw" red="252" green="175" blue="62"/>
+            <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4u0MAiEeOUrtBoGfUYGw" red="253" green="206" blue="137"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']"/>
+        </ownedBorderedNodes>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_hV4u0cAiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node" width="9" height="5">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u0sAiEeOUrtBoGfUYGw"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u08AiEeOUrtBoGfUYGw" red="138" green="226" blue="52"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4u1MAiEeOUrtBoGfUYGw" red="204" green="242" blue="166"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_hV4u1cAiEeOUrtBoGfUYGw" name="La Guardia (USA)" width="9" height="5" resizeKind="NSEW">
+        <target xmi:type="airports:Airport" href="example.airports#//@airports.2"/>
+        <semanticElements xmi:type="airports:Airport" href="example.airports#//@airports.2"/>
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_hV4u1sAiEeOUrtBoGfUYGw" name="4" incomingEdges="_hV4u6cAiEeOUrtBoGfUYGw" width="2" height="2" resizeKind="NSEW">
+          <target xmi:type="airports:Gate" href="example.airports#//@airports.2/@gates.0"/>
+          <semanticElements xmi:type="airports:Gate" href="example.airports#//@airports.2/@gates.0"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_hV4u18AiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u2MAiEeOUrtBoGfUYGw"/>
+            <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']/@style"/>
+            <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u2cAiEeOUrtBoGfUYGw" red="252" green="175" blue="62"/>
+            <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4u2sAiEeOUrtBoGfUYGw" red="253" green="206" blue="137"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']"/>
+        </ownedBorderedNodes>
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_hV4u28AiEeOUrtBoGfUYGw" name="7" incomingEdges="_hV4u5MAiEeOUrtBoGfUYGw" width="2" height="2" resizeKind="NSEW">
+          <target xmi:type="airports:Gate" href="example.airports#//@airports.2/@gates.1"/>
+          <semanticElements xmi:type="airports:Gate" href="example.airports#//@airports.2/@gates.1"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_hV4u3MAiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u3cAiEeOUrtBoGfUYGw"/>
+            <description xmi:type="style:LozengeNodeDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']/@style"/>
+            <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u3sAiEeOUrtBoGfUYGw" red="252" green="175" blue="62"/>
+            <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4u38AiEeOUrtBoGfUYGw" red="253" green="206" blue="137"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@borderedNodeMappings[name='node_gate']"/>
+        </ownedBorderedNodes>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_hV4u4MAiEeOUrtBoGfUYGw" showIcon="false" labelPosition="node" width="9" height="5">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u4cAiEeOUrtBoGfUYGw"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u4sAiEeOUrtBoGfUYGw" red="138" green="226" blue="52"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_hV4u48AiEeOUrtBoGfUYGw" red="204" green="242" blue="166"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_iurRQMAjEeOUrtBoGfUYGw" name="New Airport (Country)" width="9" height="5" resizeKind="NSEW">
+        <target xmi:type="airports:Airport" href="example.airports#//@airports.3"/>
+        <semanticElements xmi:type="airports:Airport" href="example.airports#//@airports.3"/>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_iuttgMAjEeOUrtBoGfUYGw" showIcon="false" labelPosition="node" width="9" height="5">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_iuttgcAjEeOUrtBoGfUYGw"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_iuttgsAjEeOUrtBoGfUYGw" red="138" green="226" blue="52"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_iuttg8AjEeOUrtBoGfUYGw" red="204" green="242" blue="166"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@nodeMappings[name='node_airport']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_hV4u5MAiEeOUrtBoGfUYGw" sourceNode="_hV4HwsAiEeOUrtBoGfUYGw" targetNode="_hV4u28AiEeOUrtBoGfUYGw">
+        <target xmi:type="airports:Gate" href="example.airports#//@airports.0/@gates.0"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_hV4u5cAiEeOUrtBoGfUYGw" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@edgeMappings[name='edge_gates']/@style"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u5sAiEeOUrtBoGfUYGw" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_hV4u58AiEeOUrtBoGfUYGw">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u6MAiEeOUrtBoGfUYGw"/>
+          </centerLabelStyle>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@edgeMappings[name='edge_gates']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_hV4u6cAiEeOUrtBoGfUYGw" sourceNode="_hV4HzMAiEeOUrtBoGfUYGw" targetNode="_hV4u1sAiEeOUrtBoGfUYGw">
+        <target xmi:type="airports:Gate" href="example.airports#//@airports.1/@gates.0"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_hV4u6sAiEeOUrtBoGfUYGw" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@edgeMappings[name='edge_gates']/@style"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u68AiEeOUrtBoGfUYGw" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_hV4u7MAiEeOUrtBoGfUYGw">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_hV4u7cAiEeOUrtBoGfUYGw"/>
+          </centerLabelStyle>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer/@edgeMappings[name='edge_gates']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_hV4u7sAiEeOUrtBoGfUYGw"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']/@ownedRepresentations[name='airports_diagram']/@defaultLayer"/>
+      <target xmi:type="airports:WorldMap" href="example.airports#/"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/com.abernard.airports.design/description/airports.odesign#//@ownedViewpoints[name='default_airports_vp']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>
